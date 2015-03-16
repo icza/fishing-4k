@@ -32,3 +32,5 @@ Basic sound effects are included.
 ## Screenshot: ##
 
 [![](http://lh4.ggpht.com/_jDMClHrENz8/SyIMwDz93eI/AAAAAAAASF8/rd7UePmhN-k/s400/Fishing-4k-scr02.png.jpg)](http://code.google.com/p/fishing-4k/wiki/Screenshots)
+
+[More screenshots...](../wiki/Screenshots.md)
